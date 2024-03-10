@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Learnings:
+- Next.js connection to DB, serverless DB connection, caching etc.
+- Server Actions
+- Webhooks to convert clerk user to stripe user
+- Declare global types in index.d.ts so you don't need to import everywhere in the app
